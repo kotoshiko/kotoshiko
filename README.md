@@ -1,6 +1,6 @@
 -  👋 Hi there, my name is Anton
 -  👾 I am developer from Ukraine
--  🌱 I’m currently learning PHP frameworks
+-  🌱 I’m currently learning CMS's and PHP frameworks
 -  📫 You can find me in telegram @kotoshiko
 
 <!--
